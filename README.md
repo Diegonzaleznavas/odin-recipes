@@ -1,0 +1,1 @@
+Selection of recipes for The odin Project foundation course.
